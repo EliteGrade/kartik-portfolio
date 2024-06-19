@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+	font-family: "Exo", sans-serif;
+}
+
+
+
+.background{
+	font-size:30px;
+	padding-bottom:27px;
+	background-color:dodgerblue;
+	color:white;
+	border-bottom-left-radius:30px;
+}
+.menu{
+	font-size:21px;
+	padding-left:100px;
+	text-decoration:none;
+	color:white;
+}
+.kisame{
+	text-align:right;
+	padding-right:40px;
+}
+.center{
+	text-align:center;
+}
+.everyone{
+	text-align:center;
+	padding-top:10px;
+	font-size:28px;
+	color:black;
+}
+.color{
+	color:dodgerblue;
+}
+.copy{
+	text-align:center;
+	font-size:22px;
+}
+.new{
+	font-size:2px;
+	padding:30px;
+	max-width:600px;
+	margin:auto;
+}
+
+.bg-color-1{
+	background-color:#F0F0F0;
+}
+
+.hazar{
+	font-size:28px;
+	text-align:center;
+}
+.plus{
+	font-size:18px;
+}
+.kal{
+	font-size:22px;
+	color:dodgerblue;
+}
+.aaj{
+	font-size:22px;
+	color:dodgerblue;
+}
+.ten{
+	padding-left:20px;
+	padding-top:8px;
+}
+.construction{
+	text-align:center;
+	font-size:28px;
+}
+.container{
+	text-align:center;
+	font-size:22px;
+}
+.cola{
+	height:400px;	
+}
+.or{
+	text-align:center;
+	font-size:19px;
+	
+}
+.hlo{
+	padding-left:25px;
+	text-decoration:none;
+	background-color:dodgerblue;
+	padding:7px;
+	color:white;
+	margin:10px;
+}
+.davinci{
+	
+	font-size:28px;
+}
+.kyu{
+	
+	font-size:22px;
+}
+.build{
+	text-decoration:none;
+	background-color:dodgerblue;
+	padding:7px;
+	color:white;
+	font-size:19px;
+}
+.class{
+	text-align:center;
+	background-color:#F0F0F0;
+	padding:30px;
+}
+.op{
+	text-align:center;
+	background-color:dodgerblue;
+	padding:40px;
+	border-top-right-radius:22px;
+}
+.kahe{
+	font-size:28px;
+	color:white;
+}
+.face{
+	font-size:19px;
+	text-decoration:none;
+	padding:7px;
+	color:white;
+}
